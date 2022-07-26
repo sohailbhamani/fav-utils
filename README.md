@@ -15,4 +15,4 @@ A collection of scripts, tools, links and information I deemed worthy enough to 
 - [org-formation](https://github.com/org-formation/org-formation-cli) - Automation for AWS Organizations
 - [org-formation - RA](https://github.com/org-formation/org-formation-reference) - org-formation referenece architecture and detailed how-to
 - [AWS Blog - Managing AWS Organizations using org-formation](https://aws.amazon.com/blogs/opensource/managing-aws-organizations-using-the-open-source-org-formation-tool-part-1/) - Blog series from org-formation author on how to implement
-- [Howe to get started with org-formation](https://bahr.dev/2022/02/07/org-formation/) - Great article describing another way to utilize org-formation
+- [How to get started with org-formation](https://bahr.dev/2022/02/07/org-formation/) - Great article describing another way to utilize org-formation

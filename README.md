@@ -1,8 +1,9 @@
 # fav-utils
 A collection of scripts, tools, links and information I deemed worthy enough to be included in a repo!
 
-## AWS
-### S3
+## Scripts
+### AWS
+#### S3
 - [AWS/delete_bucket_object_versions.py](https://github.com/sohailbhamani/fav-utils/blob/main/AWS/delete_bucket_object_versions.py) - A simple script I developed to delete S3 object versions
 ## Links Worthy Of Remembering
 ### Digital Culture

@@ -6,7 +6,9 @@ A collection of scripts, tools, links and information I deemed worthy enough to 
 #### S3
 - [AWS/delete_bucket_object_versions.py](https://github.com/sohailbhamani/fav-utils/blob/main/AWS/delete_bucket_object_versions.py) - A simple script I developed to delete S3 object versions
 ## Links Worthy Of Remembering
-### Digital Culture
+
+### Sweet Links
+- [BogoToBogo](https://www.bogotobogo.com/index.php) - This is an amazing treasure trove of information across numerous topics including Devops, Python, ML, and so much more
 - [The Emoji Cheat Sheet ](https://github.com/ikatyang/emoji-cheat-sheet) - Finally, names to all those images!!
 ### Chaos Engineering
 - [Awesome Chaos Engineering Collection](https://github.com/dastergon/awesome-chaos-engineering) - Dastergon's wonderful collection of information on Chaos Engineering

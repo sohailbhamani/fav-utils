@@ -1,6 +1,9 @@
 # fav-utils
 A collection of scripts, tools, links and information I deemed worthy enough to be included in a repo!
 
+## Environment Setup
+### Shell Alias's
+- `alias gbdl='git branch --merged | grep -v \* | xargs git branch -D'` - This will delete any local branch that does not exist at origin.  Handy for keepings things tidy locally.
 ## Scripts
 ### AWS
 #### S3
